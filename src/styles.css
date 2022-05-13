@@ -18,3 +18,9 @@
     margin: 0;
     padding: 0;
 }
+.some-class {
+    color: red;
+}
+.dispay-none {
+    display: none;
+}
